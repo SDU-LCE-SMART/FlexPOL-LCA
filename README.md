@@ -78,15 +78,7 @@ The application provides a guided interface organized around the main LCA stages
 
 ### Figure 1 — Foreground inventory, matching, and expert review
 
-![FlexPOL-LCA inventory and matching interface — replace with actual screenshot](images/flexpol-inventory-matching.png)
 
-*Suggested screenshot: the Matching or Review page showing foreground exchanges and candidate background activities. Replace this placeholder with an actual platform screenshot.*
-
-### Figure 2 — LCIA methods and results
-
-![FlexPOL-LCA LCIA methods and results interface — replace with actual screenshot](images/flexpol-lcia-results.png)
-
-*Suggested screenshot: the LCIA Method or Results page showing selected impact indicators and calculated outputs. Replace this placeholder with an actual platform screenshot.*
 
 ## What users should expect
 
