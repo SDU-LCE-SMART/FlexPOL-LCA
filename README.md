@@ -2,6 +2,15 @@
 
 ### A modular platform for flexible, transparent, and expert-guided Life Cycle Assessment
 
+## Status
+
+| Item | Value |
+|---|---|
+| Project state | Finished and finalized |
+| Collaborators | Mohammadhossein Narang, Hadis Marami, Benyamin Khoshnevisan |
+| Contact person | mhna@igt.sdu.dk, bekh@igt.sdu.dk (If you are willing to use BETA version please contact us.)|
+| Open-source plan | This repository will be made open source after the scientific papers are published. |
+
 **FlexPOL-LCA** is a Python-based scientific software platform designed to support the preparation, modeling, calculation, and interpretation of Life Cycle Assessment (LCA) studies. It brings foreground inventory management, background-process matching, expert review, Life Cycle Impact Assessment (LCIA), and results reporting into one connected workflow.
 
 The platform is intended for researchers, LCA practitioners, and organizations that need to assess product systems while retaining visibility into the assumptions, data connections, and decisions underlying their results. Rather than treating matching and calculation as disconnected tasks, FlexPOL-LCA helps users move from an Excel-based foreground inventory to a traceable assessment supported by their own compatible background databases.
