@@ -78,6 +78,7 @@ The application provides a guided interface organized around the main LCA stages
 
 ### Figure 1 — Foreground inventory, matching, and expert review
 
+![Main Dashboard](img/MainDashboard.png)
 
 
 ## What users should expect
